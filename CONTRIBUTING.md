@@ -82,7 +82,3 @@ If you find:
 - Entries that don't meet quality standards
 
 Please create an issue or submit a pull request with your suggested changes.
-
-## License
-
-This project is licensed under CC0-1.0. By contributing, you agree to license your contributions under the same license.
