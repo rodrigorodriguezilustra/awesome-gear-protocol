@@ -1,6 +1,6 @@
 # Awesome Gear Protocol [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of code and content from the **Gear Protocol** and **Vara Network** community.
+> A curated list of code and content from the [Gear Protocol](https://github.com/gear-tech/gear) and [Vara Network](https://vara.network) community.
 >
 > Gear Protocol is an actor‑model smart‑program runtime that powers the **Vara** L1 network. Programs run in WebAssembly, use async message passing, and support fork‑less upgrades, enabling fast, parallelizable dApps.
 
