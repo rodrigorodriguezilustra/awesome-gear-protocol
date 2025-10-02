@@ -20,6 +20,7 @@
 - [SDKs](#sdks)
   - [Rust SDKs](#rust-sdks)
   - [TypeScript / JS SDKs](#typescript--js-sdks)
+  - [React](#react)
 - [Papers](#papers)
 - [Videos](#videos)
 - [Blog Posts](#blog-posts)
@@ -64,6 +65,7 @@
 
 ### Examples
 - [Vara examples index](https://wiki.vara.network/docs/examples) - Curated examples across tokens, auctions, multisig, and more.
+- [gear-tech/gear-js](https://github.com/gear-tech/gear-js) - Examples, utilities, and docs for JS integrations.
 - [gear-foundation/dapps](https://github.com/gear-foundation/dapps) - Ecosystem dApps and reference implementations.
 
 ## Tools
@@ -87,9 +89,14 @@
 - [gsdk](https://docs.rs/gsdk) - Utilities and helpers for Gear development.
 
 ### TypeScript / JS SDKs
-- [@gear-js/api](https://www.npmjs.com/package/@gear-js/api) - Primary JS/TS API for connecting to Gear/Vara nodes.
-- [sails-js](https://www.npmjs.com/package/sails-js) - TypeScript library for interacting with Sails programs and generated clients.
-- [gear-tech/gear-js](https://github.com/gear-tech/gear-js) - Examples, utilities, and docs for JS integrations.
+- [@gear-js/api](https://github.com/gear-tech/gear-js/tree/main/apis/gear) - Primary JS/TS API for connecting to Gear/Vara nodes.
+- [sails-js](https://github.com/gear-tech/sails/tree/master/js) - TypeScript library for interacting with Sails programs and generated clients.
+
+### React
+- [@gear-js/react-hooks](https://github.com/gear-tech/gear-js/tree/main/utils/gear-hooks) - React library that provides hooks used across Gear applications.
+- [@gear-js/wallet-connect](https://github.com/gear-tech/gear-js/tree/main/utils/wallet-connect) - React library to connect Substrate-based wallets in a standardized and consistent way across decentralized applications.
+- [gear-ez-transactions](https://github.com/gear-foundation/dapps/tree/master/frontend/packages/ez-transactions) - React library to provide gasless and signless transactions.
+- [create-vara-app](https://github.com/gear-foundation/dapps/tree/master/frontend/templates/create-vara-app)/[create-gear-app](https://github.com/gear-foundation/dapps/tree/master/frontend/templates/create-gear-app) - A ready-made application template with a well-thought-out infrastructure for quickly turning the application on Gear blockchain.
 
 ## Papers
 - [Inside the Vara Bridge](https://gear-tech.io/news/inside-the-vara-bridge-a-technical-breakdown-of-cross-chain-communication) - Technical breakdown of cross‑chain communication.
