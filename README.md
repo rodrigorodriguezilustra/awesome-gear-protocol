@@ -6,7 +6,7 @@
 
 ## Contents
 - [Overview](#overview)
-- [Gear‑Powered Networks](#gearpowered-networks)
+- [Gear-Powered Networks](#gear-powered-networks)
 - [Whitepapers \& Books](#whitepapers--books)
 - [Tutorials](#tutorials)
 - [Community](#community)
@@ -30,7 +30,7 @@
 - [Getting started in 5 minutes](https://wiki.vara.network/docs/getting-started-in-5-minutes) - Write, compile, and deploy your first program.
 - [Gear core repo](https://github.com/gear-tech/gear) - Node, runtime, core crates, CLI, and examples.
 
-## Gear‑Powered Networks
+## Gear-Powered Networks
 - [Vara mainnet explorer](https://vara.subscan.io/) - Subscan for Vara blocks, extrinsics, accounts, and events.
 - [Network activity](https://vara.network/network) - Live stats, top programs, and finalized blocks.
 
@@ -42,6 +42,7 @@
 ## Tutorials
 - [Build on Vara](https://wiki.vara.network/docs/build) - Developer guide index for programs and tooling.
 - [Sails‑JS overview](https://wiki.vara.network/docs/sails-js) - How to use sails‑js to interact with Sails applications.
+- [Sails Hello World](https://github.com/Vara-Lab/Sails-Hello-World) - Minimal Sails program and client demonstrating build, deploy, and message flow end to end.
 - [Create a program with gstd](https://wiki.gear.foundation/docs/build/gstd/create) - Step‑by‑step program creation flow.
 
 ## Community
