@@ -65,7 +65,6 @@
 
 ### Examples
 - [Vara examples index](https://wiki.vara.network/docs/examples) - Curated examples across tokens, auctions, multisig, and more.
-- [gear-tech/gear-js](https://github.com/gear-tech/gear-js) - Examples, utilities, and docs for JS integrations.
 - [gear-foundation/dapps](https://github.com/gear-foundation/dapps) - Ecosystem dApps and reference implementations.
 
 ## Tools
@@ -91,6 +90,7 @@
 ### TypeScript / JS SDKs
 - [@gear-js/api](https://github.com/gear-tech/gear-js/tree/main/apis/gear) - Primary JS/TS API for connecting to Gear/Vara nodes.
 - [sails-js](https://github.com/gear-tech/sails/tree/master/js) - TypeScript library for interacting with Sails programs and generated clients.
+- [gear-tech/gear-js](https://github.com/gear-tech/gear-js) - Examples, utilities, and docs for JS integrations.
 
 ### React
 - [@gear-js/react-hooks](https://github.com/gear-tech/gear-js/tree/main/utils/gear-hooks) - React library that provides hooks used across Gear applications.
